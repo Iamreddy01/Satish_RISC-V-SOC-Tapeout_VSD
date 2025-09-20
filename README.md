@@ -10,7 +10,7 @@ _All the instructions for installation of required tools can be found here:_
 - 4 vCPU  
 
 ---
-(yosys.png)
+(Week0/yosys.png)
 ### Resizing the Ubuntu window to fit the screen
 ```bash
 $ sudo apt update
