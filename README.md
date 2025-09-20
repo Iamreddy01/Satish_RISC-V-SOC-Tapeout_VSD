@@ -34,20 +34,20 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
-  [This is my image  of maigic tool ](Week0/Task0/yosis.png)
+  [This is my image  of yosis tool ](Week0/Task0/yosis.png)
 
 ## Iverilog
 ```bash
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
-[This is my image  of maigic tool ](Week0/Task0/iverilog.png)
+[This is my image  of iverilog tool ](Week0/Task0/iverilog.png)
 ## gtkwave
 ```bash
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
-[This is my image  of maigic tool ](Week0/Task0/gtkwave.png)
+[This is my image  of gtkwave tool ](Week0/Task0/gtkwave.png)
 
 
 
