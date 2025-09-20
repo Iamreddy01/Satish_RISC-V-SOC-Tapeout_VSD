@@ -1,5 +1,4 @@
 # Satish_RISC-V-SOC-Tapeout_VSD
-# RISC-V Reference SoC Tapeout Program VSD
 
 ## Tools Installation
 _All the instructions for installation of required tools can be found here:_
