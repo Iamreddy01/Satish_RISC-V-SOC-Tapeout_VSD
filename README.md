@@ -17,8 +17,8 @@ $ sudo apt install build-essential dkms linux-headers-$(uname -r)
 $ cd /media/spatha/VBox_GAs_7.1.8/
 $ ./autorun.sh
 ```
-#Tool Check
-##yosis
+# Tool check
+## yosis
 ```bash
 $ sudo apt-get update
 $ git clone https://github.com/YosysHQ/yosys.git
@@ -36,12 +36,12 @@ $ sudo make install
 ```
   [This is my image  of maigic tool ](Week0/Task0/yosis.png)
 
-##Iverilog
+## Iverilog
 ```bash
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
-##gtkwave
+## gtkwave
 ```bash
 $ sudo apt-get update
 $ sudo apt install gtkwave
