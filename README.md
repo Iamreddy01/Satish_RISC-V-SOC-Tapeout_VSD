@@ -8,7 +8,7 @@ _All the instructions for installation of required tools can be found here:_
 - 50 GB HDD  
 - Ubuntu 20.04 or higher  
 - 4 vCPU  
-
+  [This is my image  of maigic tool ](Week0/magic.png)
 ---
 ### Resizing the Ubuntu window to fit the screen
 ```bash
