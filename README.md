@@ -18,3 +18,7 @@ $ cd /media/spatha/VBox_GAs_7.1.8/
 $ ./autorun.sh
 
 
+hii hello
+
+
+
