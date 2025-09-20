@@ -1,4 +1,4 @@
-# Satish_RISC-V-SOC-Tapeout_VSD
+# RISC-V Reference SoC Tapeout Program VSD
 
 ## Tools Installation
 _All the instructions for installation of required tools can be found here:_
@@ -9,8 +9,10 @@ _All the instructions for installation of required tools can be found here:_
 - Ubuntu 20.04 or higher  
 - 4 vCPU  
 
---- Resizing the Ubuntu window to fit the screen
-bash
+---
+
+### Resizing the Ubuntu window to fit the screen
+```bash
 $ sudo apt update
 $ sudo apt install build-essential dkms linux-headers-$(uname -r)
 $ cd /media/spatha/VBox_GAs_7.1.8/
