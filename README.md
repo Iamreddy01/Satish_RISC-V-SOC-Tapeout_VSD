@@ -34,7 +34,7 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
-  [This is my image  of yosis tool ](Week0/Task0/yosis.png)
+  [This is my image  of yosis tool ](Week0/Task0/yosys.png)
 
 ## Iverilog
 ```bash
